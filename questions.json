@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Who developed Python?",
+    "options": ["James Gosling", "Guido van Rossum", "Dennis Ritchie", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "Which data type stores True or False?",
+    "options": ["int", "str", "bool", "float"],
+    "answer": "bool"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "--"],
+    "answer": "#"
+  },
+  {
+    "question": "Which function is used to take input from user?",
+    "options": ["read()", "scan()", "input()", "get()"],
+    "answer": "input()"
+  }
+]
+
